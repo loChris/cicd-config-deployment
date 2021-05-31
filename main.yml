@@ -1,0 +1,5 @@
+---
+- name: Config and Deploy
+  hosts: 100.24.242.104
+
+  
